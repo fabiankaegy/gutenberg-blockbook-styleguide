@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/fabiankaegy/gutenberg-blockbook-styleguide/issues"
   },
-  "homepage": "https://github.com/fabiankaegy/gutenberg-blockbook-styleguide#readme",
+  "homepage": "https://fabiankaegy.github.io/gutenberg-blockbook-styleguide",
   "devDependencies": {
     "blockbook-cli": "^0.6.1"
   }
