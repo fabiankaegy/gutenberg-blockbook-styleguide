@@ -33,5 +33,6 @@ jobs:
       with:
         build_dir: dist
         jekyll: false
+        fqdn: https://fabiankaegy.github.io/gutenberg-blockbook-styleguide
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
