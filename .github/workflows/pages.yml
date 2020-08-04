@@ -19,7 +19,7 @@ jobs:
               with:
                   node-version: '12.x'
 
-            - name: Install Dependencies
+            - name: Set CI mode
               run: npm ci
 
             - name: Build BlockBook
