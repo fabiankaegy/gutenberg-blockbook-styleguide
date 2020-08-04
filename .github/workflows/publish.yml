@@ -32,7 +32,6 @@ jobs:
       uses: crazy-max/ghaction-github-pages@v2.1.1
       with:
         build_dir: dist
-        jekyll: false
-        fqdn: https://fabiankaegy.github.io/gutenberg-blockbook-styleguide
+        jekyll: true
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
